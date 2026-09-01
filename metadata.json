@@ -1,0 +1,7 @@
+{
+  "name": "FocusFlow",
+  "description": "Commercial-grade personal time & focus operating system with tasks, focus timer, app usage stats, habits, calendar, and AI coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
